@@ -21,6 +21,10 @@ Code Editor and resource tool for Frontend Concepts
 
 - Github: [@ap221882](https://github.com/ap221882)
 
+#### Shubham Pandey
+
+- Github: [@pandeyanshu](https://github.com/pandeyanshu)
+
 ## ➤ License
 
 Distributed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for more information.
